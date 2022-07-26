@@ -11,7 +11,7 @@ export default [
     {
         title: "Sydney Opera House",
         location: "Australia",
-        googleMapsUrl: "",
+        googleMapsUrl: "https://goo.gl/maps/3w2X83cPAnChLa5c8",
         startDate: "12 Jan, 2022",
         endDate: "24 Jan, 2022",
         description: "The Sydney Opera House is a multi-venue performing arts centre in Sydney. Located on the banks of Sydney Harbour, it is widely regarded as one of the world's most famous and distinctive buildings.",
@@ -20,7 +20,7 @@ export default [
     {
         title: "Geirangerfjord",
         location: "Norwegiann",
-        googleMapsUrl: "",
+        googleMapsUrl: "https://goo.gl/maps/AsdENHxoBpYW4W8NA",
         startDate: "12 Jan, 2023",
         endDate: "24 Jan, 2023",
         description: "The fjord is one of Norway's most visited tourist sites. In 2005, it was listed as a UNESCO World Heritage Site, jointly with the Nærøyfjorden.",
